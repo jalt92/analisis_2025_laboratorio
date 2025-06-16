@@ -1,3 +1,4 @@
 /entorno
 .env
 /file/series-tiempo-valores.csv
+/db
